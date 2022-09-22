@@ -1,0 +1,1089 @@
+{
+    "Clienti":[
+        {
+            "codfid": 67000086,
+            "nominativo": "CARMELO ROSSI",
+            "comune": "SASSARI",
+            "stato": 1
+        },
+        {
+            "codfid": 67000285,
+            "nominativo": "VITTORIO BIANCHI",
+            "comune": "ALGHERO",
+            "stato": 1
+        },
+        {
+            "codfid": 67000663,
+            "nominativo": "IRENE GRILLO",
+            "comune": " BORONEDDU",
+            "stato": 1
+        },
+        {
+            "codfid": 67100019,
+            "nominativo": "MARIA M. SCARDAMELLA",
+            "comune": "ORISTANO",
+            "stato": 1
+        },
+        {
+            "codfid": 67100057,
+            "nominativo": "ANGELA CITZIA",
+            "comune": "ORISTANO",
+            "stato": 1
+        },
+        {
+            "codfid": 67100092,
+            "nominativo": "LOREDANA MORARU",
+            "comune": "ORISTANO",
+            "stato": 1
+        },
+        {
+            "codfid": 67100270,
+            "nominativo": "ONORATA CARCANGIU",
+            "comune": "ORISTANO",
+            "stato": 1
+        },
+        {
+            "codfid": 67100316,
+            "nominativo": "COSTANTINO DINI",
+            "comune": "ORISTANO",
+            "stato": 1
+        },
+        {
+            "codfid": 67100481,
+            "nominativo": "ANGELA FRIGERIO MACOMER ",
+            "comune": "17",
+            "stato": 1
+        },
+        {
+            "codfid": 67100627,
+            "nominativo": "MARIO MUREDDU",
+            "comune": "SASSARI",
+            "stato": 1
+        },
+        {
+            "codfid": 67300121,
+            "nominativo": "Luigi Alberti",
+            "comune": "Alghero",
+            "stato": 1
+        }
+    ]
+  }
+     {
+     "Transazioni":[
+     {
+        "id": "3",
+        "data": "2020-07-01",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100019",
+        "bollini": "21"
+      },
+      {
+        "id": "4",
+        "data": "2020-07-01",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100316",
+        "bollini": "6"
+      },
+      {
+        "id": "5",
+        "data": "2020-07-02",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "11"
+      },
+      {
+        "id": "6",
+        "data": "2020-07-02",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "7"
+      },
+      {
+        "id": "7",
+        "data": "2020-07-02",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000285",
+        "bollini": "21"
+      },
+      {
+        "id": "8",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "10"
+      },
+      {
+        "id": "9",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000663",
+        "bollini": "17"
+      },
+      {
+        "id": "10",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100019",
+        "bollini": "10"
+      },
+      {
+        "id": "11",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "8"
+      },
+      {
+        "id": "12",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "7"
+      },
+      {
+        "id": "13",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100270",
+        "bollini": "0"
+      },
+      {
+        "id": "14",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100270",
+        "bollini": "-465"
+      },
+      {
+        "id": "15",
+        "data": "2020-07-03",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100316",
+        "bollini": "13"
+      },
+      {
+        "id": "16",
+        "data": "2020-07-04",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "8"
+      },
+      {
+        "id": "17",
+        "data": "2020-07-04",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "21"
+      },
+      {
+        "id": "18",
+        "data": "2020-07-04",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "0"
+      },
+      {
+        "id": "19",
+        "data": "2020-07-04",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100270",
+        "bollini": "9"
+      },
+      {
+        "id": "20",
+        "data": "2020-07-04",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100316",
+        "bollini": "12"
+      },
+      {
+        "id": "21",
+        "data": "2020-07-04",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100627",
+        "bollini": "9"
+      },
+      {
+        "id": "22",
+        "data": "2020-07-05",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "10"
+      },
+      {
+        "id": "23",
+        "data": "2020-07-05",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000285",
+        "bollini": "39"
+      },
+      {
+        "id": "24",
+        "data": "2020-07-05",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "17"
+      },
+      {
+        "id": "25",
+        "data": "2020-07-05",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100316",
+        "bollini": "7"
+      },
+      {
+        "id": "26",
+        "data": "2020-07-06",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "5"
+      },
+      {
+        "id": "27",
+        "data": "2020-07-06",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "7"
+      },
+      {
+        "id": "28",
+        "data": "2020-07-07",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "15"
+      },
+      {
+        "id": "29",
+        "data": "2020-07-07",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000285",
+        "bollini": "25"
+      },
+      {
+        "id": "30",
+        "data": "2020-07-07",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100019",
+        "bollini": "35"
+      },
+      {
+        "id": "31",
+        "data": "2020-07-07",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "17"
+      },
+      {
+        "id": "32",
+        "data": "2020-07-07",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100092",
+        "bollini": "9"
+      },
+      {
+        "id": "33",
+        "data": "2020-07-07",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100270",
+        "bollini": "12"
+      },
+      {
+        "id": "34",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000086",
+        "bollini": "16"
+      },
+      {
+        "id": "35",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100019",
+        "bollini": "16"
+      },
+      {
+        "id": "36",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100057",
+        "bollini": "8"
+      },
+      {
+        "id": "37",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100092",
+        "bollini": "0"
+      },
+      {
+        "id": "38",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100092",
+        "bollini": "17"
+      },
+      {
+        "id": "39",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100092",
+        "bollini": "7"
+      },
+      {
+        "id": "40",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100270",
+        "bollini": "20"
+      },
+      {
+        "id": "41",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100270",
+        "bollini": "14"
+      },
+      {
+        "id": "42",
+        "data": "2020-07-08",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100316",
+        "bollini": "51"
+      },
+      {
+        "id": "43",
+        "data": "2020-07-09",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000086",
+        "bollini": "15"
+      },
+      {
+        "id": "44",
+        "data": "2020-07-09",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000285",
+        "bollini": "20"
+      },
+      {
+        "id": "45",
+        "data": "2020-07-10",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000086",
+        "bollini": "14"
+      },
+      {
+        "id": "46",
+        "data": "2020-07-10",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000086",
+        "bollini": "10"
+      },
+      {
+        "id": "47",
+        "data": "2020-07-10",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000285",
+        "bollini": "0"
+      },
+      {
+        "id": "48",
+        "data": "2020-07-10",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100057",
+        "bollini": "6"
+      },
+      {
+        "id": "49",
+        "data": "2020-07-10",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100316",
+        "bollini": "10"
+      },
+      {
+        "id": "50",
+        "data": "2020-07-11",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000086",
+        "bollini": "13"
+      },
+      {
+        "id": "51",
+        "data": "2020-07-11",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000285",
+        "bollini": "18"
+      },
+      {
+        "id": "52",
+        "data": "2020-07-11",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100092",
+        "bollini": "0"
+      },
+      {
+        "id": "53",
+        "data": "2020-07-11",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100627",
+        "bollini": "12"
+      },
+      {
+        "id": "54",
+        "data": "2020-07-12",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100019",
+        "bollini": "26"
+      },
+      {
+        "id": "55",
+        "data": "2020-07-12",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100019",
+        "bollini": "0"
+      },
+      {
+        "id": "56",
+        "data": "2020-07-12",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100057",
+        "bollini": "12"
+      },
+      {
+        "id": "57",
+        "data": "2020-07-12",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100092",
+        "bollini": "14"
+      },
+      {
+        "id": "58",
+        "data": "2020-07-12",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100092",
+        "bollini": "8"
+      },
+      {
+        "id": "59",
+        "data": "2020-07-12",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100270",
+        "bollini": "13"
+      },
+      {
+        "id": "60",
+        "data": "2020-07-12",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67100316",
+        "bollini": "0"
+      },
+      {
+        "id": "61",
+        "data": "2020-07-13",
+        "puntovendita": "PDV VIA MARE",
+        "codfid": "67000086",
+        "bollini": "5"
+      },
+      {
+        "id": "62",
+        "data": "2020-07-13",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "13"
+      },
+      {
+        "id": "63",
+        "data": "2020-07-13",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "-970"
+      },
+      {
+        "id": "64",
+        "data": "2020-07-13",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000285",
+        "bollini": "25"
+      },
+      {
+        "id": "65",
+        "data": "2020-07-13",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100057",
+        "bollini": "-465"
+      },
+      {
+        "id": "66",
+        "data": "2020-07-13",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100092",
+        "bollini": "10"
+      },
+      {
+        "id": "67",
+        "data": "2020-07-13",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100270",
+        "bollini": "5"
+      },
+      {
+        "id": "68",
+        "data": "2020-07-13",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100316",
+        "bollini": "8"
+      },
+      {
+        "id": "69",
+        "data": "2020-07-14",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "24"
+      },
+      {
+        "id": "70",
+        "data": "2020-07-14",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000285",
+        "bollini": "6"
+      },
+      {
+        "id": "71",
+        "data": "2020-07-14",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100019",
+        "bollini": "9"
+      },
+      {
+        "id": "72",
+        "data": "2020-07-15",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100019",
+        "bollini": "34"
+      },
+      {
+        "id": "73",
+        "data": "2020-07-15",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100270",
+        "bollini": "12"
+      },
+      {
+        "id": "74",
+        "data": "2020-07-15",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100316",
+        "bollini": "10"
+      },
+      {
+        "id": "75",
+        "data": "2020-07-16",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "15"
+      },
+      {
+        "id": "76",
+        "data": "2020-07-17",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "6"
+      },
+      {
+        "id": "77",
+        "data": "2020-07-17",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100057",
+        "bollini": "11"
+      },
+      {
+        "id": "78",
+        "data": "2020-07-17",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100057",
+        "bollini": "19"
+      },
+      {
+        "id": "79",
+        "data": "2020-07-17",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100092",
+        "bollini": "12"
+      },
+      {
+        "id": "80",
+        "data": "2020-07-17",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100316",
+        "bollini": "-471"
+      },
+      {
+        "id": "81",
+        "data": "2020-07-17",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100481",
+        "bollini": "5"
+      },
+      {
+        "id": "82",
+        "data": "2020-07-18",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "5"
+      },
+      {
+        "id": "83",
+        "data": "2020-07-18",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "16"
+      },
+      {
+        "id": "84",
+        "data": "2020-07-18",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000285",
+        "bollini": "20"
+      },
+      {
+        "id": "85",
+        "data": "2020-07-18",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100092",
+        "bollini": "0"
+      },
+      {
+        "id": "86",
+        "data": "2020-07-18",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100092",
+        "bollini": "6"
+      },
+      {
+        "id": "87",
+        "data": "2020-07-18",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100270",
+        "bollini": "7"
+      },
+      {
+        "id": "88",
+        "data": "2020-07-18",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100316",
+        "bollini": "16"
+      },
+      {
+        "id": "89",
+        "data": "2020-07-19",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100092",
+        "bollini": "15"
+      },
+      {
+        "id": "90",
+        "data": "2020-07-19",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67100316",
+        "bollini": "6"
+      },
+      {
+        "id": "91",
+        "data": "2020-07-20",
+        "puntovendita": "PDV GARIBALDI",
+        "codfid": "67000086",
+        "bollini": "19"
+      },
+      {
+        "id": "92",
+        "data": "2020-07-20",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000285",
+        "bollini": "10"
+      },
+      {
+        "id": "93",
+        "data": "2020-07-20",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100057",
+        "bollini": "8"
+      },
+      {
+        "id": "94",
+        "data": "2020-07-21",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000086",
+        "bollini": "16"
+      },
+      {
+        "id": "95",
+        "data": "2020-07-21",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000285",
+        "bollini": "23"
+      },
+      {
+        "id": "96",
+        "data": "2020-07-21",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100019",
+        "bollini": "-470"
+      },
+      {
+        "id": "97",
+        "data": "2020-07-21",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100057",
+        "bollini": "10"
+      },
+      {
+        "id": "98",
+        "data": "2020-07-21",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100092",
+        "bollini": "8"
+      },
+      {
+        "id": "99",
+        "data": "2020-07-21",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100270",
+        "bollini": "23"
+      },
+      {
+        "id": "100",
+        "data": "2020-07-21",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100316",
+        "bollini": "13"
+      },
+      {
+        "id": "101",
+        "data": "2020-07-22",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000086",
+        "bollini": "12"
+      },
+      {
+        "id": "102",
+        "data": "2020-07-22",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000285",
+        "bollini": "21"
+      },
+      {
+        "id": "103",
+        "data": "2020-07-22",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100057",
+        "bollini": "5"
+      },
+      {
+        "id": "104",
+        "data": "2020-07-22",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100270",
+        "bollini": "20"
+      },
+      {
+        "id": "105",
+        "data": "2020-07-22",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100316",
+        "bollini": "0"
+      },
+      {
+        "id": "106",
+        "data": "2020-07-22",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100316",
+        "bollini": "15"
+      },
+      {
+        "id": "107",
+        "data": "2020-07-23",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000086",
+        "bollini": "9"
+      },
+      {
+        "id": "108",
+        "data": "2020-07-23",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000285",
+        "bollini": "31"
+      },
+      {
+        "id": "109",
+        "data": "2020-07-24",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000086",
+        "bollini": "7"
+      },
+      {
+        "id": "110",
+        "data": "2020-07-24",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67000086",
+        "bollini": "14"
+      },
+      {
+        "id": "111",
+        "data": "2020-07-24",
+        "puntovendita": "PDV MAGGIORE",
+        "codfid": "67100092",
+        "bollini": "23"
+      },
+      {
+        "id": "112",
+        "data": "2020-07-25",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "10"
+      },
+      {
+        "id": "113",
+        "data": "2020-07-25",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "9"
+      },
+      {
+        "id": "114",
+        "data": "2020-07-25",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "25"
+      },
+      {
+        "id": "115",
+        "data": "2020-07-25",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "14"
+      },
+      {
+        "id": "116",
+        "data": "2020-07-25",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100270",
+        "bollini": "19"
+      },
+      {
+        "id": "117",
+        "data": "2020-07-25",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100316",
+        "bollini": "30"
+      },
+      {
+        "id": "118",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "5"
+      },
+      {
+        "id": "119",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000285",
+        "bollini": "8"
+      },
+      {
+        "id": "120",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "0"
+      },
+      {
+        "id": "121",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "5"
+      },
+      {
+        "id": "122",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "5"
+      },
+      {
+        "id": "123",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "10"
+      },
+      {
+        "id": "124",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100270",
+        "bollini": "15"
+      },
+      {
+        "id": "125",
+        "data": "2020-07-26",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100316",
+        "bollini": "8"
+      },
+      {
+        "id": "126",
+        "data": "2020-07-27",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "16"
+      },
+      {
+        "id": "127",
+        "data": "2020-07-27",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "6"
+      },
+      {
+        "id": "128",
+        "data": "2020-07-27",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "11"
+      },
+      {
+        "id": "129",
+        "data": "2020-07-28",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "11"
+      },
+      {
+        "id": "130",
+        "data": "2020-07-28",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000663",
+        "bollini": "36"
+      },
+      {
+        "id": "131",
+        "data": "2020-07-28",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000663",
+        "bollini": "25"
+      },
+      {
+        "id": "132",
+        "data": "2020-07-28",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100270",
+        "bollini": "28"
+      },
+      {
+        "id": "133",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "15"
+      },
+      {
+        "id": "134",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000285",
+        "bollini": "20"
+      },
+      {
+        "id": "135",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100019",
+        "bollini": "25"
+      },
+      {
+        "id": "136",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "24"
+      },
+      {
+        "id": "137",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "26"
+      },
+      {
+        "id": "138",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "0"
+      },
+      {
+        "id": "139",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "7"
+      },
+      {
+        "id": "140",
+        "data": "2020-07-29",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100316",
+        "bollini": "12"
+      },
+      {
+        "id": "141",
+        "data": "2020-07-30",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000086",
+        "bollini": "8"
+      },
+      {
+        "id": "142",
+        "data": "2020-07-30",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67000285",
+        "bollini": "32"
+      },
+      {
+        "id": "143",
+        "data": "2020-07-31",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100057",
+        "bollini": "23"
+      },
+      {
+        "id": "144",
+        "data": "2020-07-31",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100092",
+        "bollini": "0"
+      },,
+      {
+        "id": "145",
+        "data": "2020-07-31",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100270",
+        "bollini": "0"
+      },
+      {
+        "id": "146",
+        "data": "2020-07-31",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67100481",
+        "bollini": "16"
+      },
+      {
+        "id": "147",
+        "data": "2021-01-06",
+        "puntovendita": "PDV CENTRALE",
+        "codfid": "67300121",
+        "bollini": "100"
+      },
+     ]
+}

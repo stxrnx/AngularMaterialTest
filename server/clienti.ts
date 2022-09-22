@@ -1,0 +1,44 @@
+ 
+const CLIENTI: any =[
+{
+codfid:'67000086',
+nominativo:'CARMELO ROSSI',
+comune: 'SASSARI',
+stato:1
+}
+]
+
+const x:string =`67000086,CARMELO ROSSI,SASSARI,1
+67000285,VITTORIO BIANCHI,ALGHERO,1
+67000663,IRENE GRILLO,BORONEDDU,1
+67100019,MARIA M. SCARDAMELLA,ORISTANO,1
+67100057,ANGELA CITZIA,ORISTANO,1
+67100092,LOREDANA MORARU,ORISTANO,1
+67100270,ONORATA CARCANGIU,ORISTANO,1
+67100316,COSTANTINO DINI,ORISTANO,1
+67100481,ANGELA FRIGERIO,MACOMER,1
+67100627,MARIO MUREDDU,SASSARI,1
+67300121,Luigi Alberti,Alghero,1`
+
+
+const v =x.split('\n');
+
+export const ELENCODATI:any[]=[];
+
+v.map((v)=>{
+ const y =v.split(',');
+ const z ={
+ codfid: +y[0],
+ nominativo: y[1],
+ comune: y[2],
+ stato: +y[3]
+ }
+ELENCODATI.push(z)
+});
+
+
+
+
+
+
+
