@@ -15,6 +15,7 @@ const routes: Routes=[
   {
     path: '', component: GestfidAppComponent,
     children: [
+      { path:':codFid', component:MainContentComponent},
       { path:'', component:MainContentComponent}
     ]
   },

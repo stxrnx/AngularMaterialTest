@@ -19,6 +19,11 @@ app.use(cors({origin: true}));
 
 app.use(bodyParser.json());
 
+
+
+
+app.route('/api/clienti').get(getAllClienti);
+
 app.route('/api/courses').get(getAllCourses);
 
 app.route('/api/courses/:id').get(getCourseByUrl);
@@ -33,7 +38,10 @@ app.route('/api/lesson-details').get(findLessonDetail);
 
 app.route('/api/transazioni').get(getAllTransazioni);
 
-app.route('/api/clienti').get(getAllClienti);
+
+
+
+
 
 
 const httpServer = app.listen(9000, () => {

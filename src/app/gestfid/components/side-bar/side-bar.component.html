@@ -7,7 +7,10 @@
         </mat-toolbar>
         <mat-nav-list>
             <mat-list-item *ngFor="let cliente of clienti">
-                <a matLine href="#">{{cliente.nominativo}}</a>
+                <a matLine [routerLink]="['/gestfid', cliente.codFid]">
+                    {{cliente.nominativo}} 
+                    <mat-icon>rowing</mat-icon>
+                </a>
             </mat-list-item>
         </mat-nav-list>
     </mat-drawer>

@@ -3,6 +3,7 @@ export interface IClienti {
     nominativo: string;
     comune: string;
     stato: number;
+    idAvatar: string;
 }
 
 export interface ITransazioni {
