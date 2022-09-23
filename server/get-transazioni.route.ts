@@ -17,9 +17,11 @@ export function getAllTransazioni(req: Request, res: Response) {
 
         setTimeout(() => {
 
-             res.status(200).json({transazioni:Object.values(ELENCO)});
+             res.status(200).json(ELENCO);
 
         }, 400);
+
+
 
 
 }

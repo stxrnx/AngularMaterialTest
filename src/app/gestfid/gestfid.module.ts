@@ -9,6 +9,7 @@ import { SideBarComponent } from './components/side-bar/side-bar.component';
 import { MaterialModule } from '../shared/material.module';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { HttpClientModule } from '@angular/common/http';
+import { SalesComponent } from './components/sales/sales.component';
 
 
 const routes: Routes=[
@@ -28,6 +29,7 @@ const routes: Routes=[
     TollbarComponent,
     MainContentComponent,
     SideBarComponent,
+    SalesComponent,
   ],
   imports: [
     CommonModule,

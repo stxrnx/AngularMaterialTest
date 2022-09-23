@@ -1,9 +1,11 @@
 import { ClientiService } from './../../services/clienti.service';
 import { IClienti } from './../../models/interfaces';
 
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { BreakpointObserver, Breakpoints, BreakpointState} from '@angular/cdk/layout';
 import { response } from 'express';
+import { Router } from '@angular/router';
+import { MatDrawer } from '@angular/material/sidenav';
 
 const SMALL_WIDTH_BK=720;
 
@@ -19,7 +21,10 @@ export class SideBarComponent implements OnInit {
 clienti: IClienti[]=[];
 
   constructor(private breakpointObserver: BreakpointObserver, 
-  private clientiService:ClientiService,) { }
+  private clientiService:ClientiService, private router:Router) { }
+
+    @ViewChild(MatDrawer) drawer : MatDrawer;
+
 
   ngOnInit(): void {
 
@@ -30,10 +35,16 @@ clienti: IClienti[]=[];
     .observe([`(max-width: ${SMALL_WIDTH_BK}px)`])
     .subscribe((state:BreakpointState)=>{
       console.log(state.matches);
-      this.isScreenSmall=state.matches
-    })
+      this.isScreenSmall=state.matches;
+    });
 
     this.getClienti();
+
+    this.router.events.subscribe(()=>{
+       if(this.isScreenSmall){
+        this.drawer.close();
+       }
+    });
   }
 
   public getClienti(){
@@ -43,6 +54,9 @@ clienti: IClienti[]=[];
 
         this.clienti = response;
         console.log(this.clienti);
+
+        if(this.clienti.length > 0)
+        this.router.navigate(['/gestfid', this.clienti[0].codFid])
       },
       error =>{
         console.log(error);

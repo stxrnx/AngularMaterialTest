@@ -144,11 +144,13 @@ const x:string = `2,2020-07-01,PDV CENTRALE,67000086,11
 144,2020-07-31,PDV CENTRALE,67100092,0
 145,2020-07-31,PDV CENTRALE,67100270,0
 146,2020-07-31,PDV CENTRALE,67100481,16
-147,2021-01-06,PDV CENTRALE,67300121,100`
+147,2021-01-06,PDV CENTRALE,67300121,100
+147,2021-01-06,PDV CENTRALE,67300121,100
+`
 
 const v =x.split('\n');
 
-export const ELENCO:any[]=[];
+export const ELENCO:any={};
 
 v.map((v)=>{
  const y =v.split(',');
@@ -159,6 +161,11 @@ v.map((v)=>{
  codfid:+y[3],
  bollini:+y[4]
  }
-ELENCO.push(z)
+if(!ELENCO[y[3]]){
+    ELENCO[y[3]]=[]
+}else{
+    ELENCO[y[3]].push(z)
+}
+console.log(ELENCO);
 });
 
